@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Ethanol to Ethylene Alumina Catalyst",
+    "PrimaryInput": "Alcohol Vapors",
+    "Inputs": {
+      "Alcohol Vapors": 1
+    },
+    "Outputs": {
+      "Ethylene": 1,
+      "Steam": 1
+    },
+    "Catalysts": {
+      "Alumina": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 673,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Beer Decomposition",
+    "PrimaryInput": "Beer",
+    "Inputs": {
+      "Beer": 5
+    },
+    "Outputs": {
+      "Brewers Yeast": 1,
+	  "Alcohol": 1,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 335,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

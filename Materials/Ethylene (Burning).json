@@ -1,0 +1,108 @@
+[
+  {
+    "Name": "Ethylene (Burning)",
+    "LocIdName": "MAT_GAS_ETHYLENE_BURNING",
+    "Description": null,
+    "Formula": "C2H4",
+    "State": 2,
+    "PickUpInto": "Ethylene",
+    "MinesInto": null,
+    "BuildsInto": null,
+    "TurnsOnInto": null,
+    "TurnsOffInto": null,
+    "RotatesRightInto": null,
+    "RotatesLeftInto": null,
+    "GrowsInto": null,
+    "WireIndex": null,
+    "HealthChange": -200,
+    "AcidDamage": 0,
+    "Weight": 0,
+    "Density": 0.2,
+    "Hardness": 0,
+    "Composition": {
+      "Elements": [
+	  {
+          "Item1": "Carbon",
+          "Item2": 2
+        },
+        {
+          "Item1": "Hydrogen",
+          "Item2": 4
+        }
+      ]
+    },
+    "DissolvesInto": null,
+    "Bounciness": 0.0,
+    "ActorFriction": null,
+    "OverrideActorCollision": null,
+    "IsInteractable": false,
+    "IsBurning": true,
+    "IgnoreFogOfWar": false,
+    "CanBeCutByPlasma": false,
+    "Direction": 0,
+    "IsForeground": false,
+    "IsCarryingSignal": false,
+    "IsUnstable": false,
+    "RequiredSupportDirection": null,
+    "DoNotBlockLaser": false,
+    "IsBuilt": false,
+    "IsMechanical": false,
+    "CanPickUpStatic": false,
+    "IsOn": false,
+    "DoNotShowInGuide": false,
+    "GrowthRules": null,
+    "GrowthMedium": null,
+    "Friction": 0,
+    "Viscosity": 0,
+    "DefaultTemperature": 400,
+    "ThermalConductivity": null,
+    "ColorDelegate": null,
+    "Color": {
+      "R": 0.85,
+      "G": 0.85,
+      "B": 0.9,
+      "A": 0.8
+    },
+    "Alpha": 0.666,
+    "LightColor": null,
+    "LightRange": null,
+    "Condensation": {
+      "TargetMaterialName": "Ethylene",
+      "Temperature": 323,
+      "Amount": 1
+    },
+    "Evaporation": null,
+    "Ignition": null,
+    "Fire": {
+      "ExtinguishTargetMaterialName": "Ethylene",
+      "CombustionTargetMaterialNames": [
+        "Carbon Dioxide",
+		"Carbon Dioxide",
+        "Steam",
+		"Steam"
+      ],
+      "HeatOutput": 30,
+      "PercentChanceToSpread": 100,
+      "FlameColor": {
+        "R": 0.99999934,
+        "G": 0.8431373,
+        "B": 5.0441027E-05,
+        "A": 1.0,
+        "R8": 255,
+        "G8": 215,
+        "B8": 0,
+        "A8": 255,
+        "H": 0.14052166,
+        "S": 0.9999496,
+        "V": 0.99999934,
+        "OkHslH": 0.2648067,
+        "OkHslS": 0.9999987,
+        "OkHslL": 0.8681756,
+        "Luminance": 0.81561536
+      },
+      "ProbabilityToCombust": 64
+    },
+    "ExplosionRadius": 0,
+    "DropRates": null
+  }
+]
