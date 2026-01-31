@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Polyethylene",
-    "LocIdName": "MAT_SOLID_POLYETHYLENE",
-    "Description": "The most common plastic.",
-    "Formula": "C2H4",
+    "Name": "Napalm",
+    "LocIdName": "MAT_LIQUID_NAPALM",
+    "Description": "A sticky incendiary composed partly of gasoline.",
+    "Formula": null,
     "State": 0,
     "PickUpInto": null,
     "MinesInto": null,
@@ -14,25 +14,14 @@
     "RotatesLeftInto": null,
     "GrowsInto": null,
     "WireIndex": null,
-    "HealthChange": -10,
+    "HealthChange": -10000,
     "AcidDamage": 0,
-    "Weight": 55,
-    "Density": 8.0,
-    "Hardness": 1,
-    "Composition": {
-      "Elements": [
-	    {
-          "Item1": "Carbon",
-          "Item2": 2
-        },
-        {
-          "Item1": "Hydrogen",
-          "Item2": 4
-        }
-      ]
-    },
+    "Weight": 60,
+    "Density": 5.0,
+    "Hardness": 0,
+    "Composition": null,
     "DissolvesInto": null,
-    "Bounciness": 0.0,
+    "Bounciness": 1.0,
     "ActorFriction": null,
     "OverrideActorCollision": null,
     "IsInteractable": false,
@@ -55,22 +44,27 @@
     "Friction": 0,
     "Viscosity": 0,
     "DefaultTemperature": null,
-    "ThermalConductivity": 100,
-    "ColorDelegate": "MetalBits",
+    "ThermalConductivity": null,
+    "ColorDelegate": "Sand",
     "Color": {
-      "R": 0.9,
-      "G": 0.9,
-      "B": 0.9,
-      "A": 0.8
+      "R": 0.671,
+      "G": 0.133,
+      "B": 0.004,
+      "A": 1.0
     },
-    "Alpha": 0.5,
+    "Alpha": 0.6,
     "LightColor": null,
     "LightRange": null,
     "Condensation": null,
     "Evaporation": null,
-    "Ignition": null,
+    "Ignition": {
+      "TargetMaterialName": "Napalm (Burning)",
+      "Temperature": 323,
+      "RequiresSpark": true,
+      "Explodes": true
+    },
     "Fire": null,
-    "ExplosionRadius": 0,
+    "ExplosionRadius": 1,
     "DropRates": null
   }
 ]
