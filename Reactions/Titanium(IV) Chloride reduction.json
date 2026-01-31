@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Titanium(IV) Chloride Reduction",
+    "PrimaryInput": "Titanium Tetrachloride",
+    "Inputs": {
+      "Titanium Tetrachloride": 2,
+      "Hydrogen Gas": 1
+    },
+    "Outputs": {
+      "Titanium Trichloride": 2,
+      "Hydrogen Chloride Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

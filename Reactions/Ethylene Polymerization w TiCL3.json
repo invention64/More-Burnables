@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Ethylene Polymerization w TiCl3",
+    "PrimaryInput": "Ethylene",
+    "Inputs": {
+      "Ethylene": 4
+    },
+    "Outputs": {
+      "Polyethylene": 1
+    },
+    "Catalysts": {
+      "Titanium Trichloride": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 150,
+    "Probability": 0
+  }
+]
