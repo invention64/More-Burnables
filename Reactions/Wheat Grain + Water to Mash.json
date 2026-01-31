@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Wheat Mash",
+    "PrimaryInput": "Wheat Grain",
+    "Inputs": {
+      "Wheat Grain": 1,
+      "Water": 3
+    },
+    "Outputs": {
+      "Mash": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

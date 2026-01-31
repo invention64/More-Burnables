@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Beer Fermentation",
+    "PrimaryInput": "Mash",
+    "Inputs": {
+      "Mash": 1
+    },
+    "Outputs": {
+      "Beer": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 280,
+    "MaxTemperature": 303,
+    "ChangeInTemperature": 0,
+    "Probability": 128
+  }
+]
