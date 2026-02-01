@@ -21,7 +21,7 @@
     "Hardness": 0,
     "Composition": null,
     "DissolvesInto": null,
-    "Bounciness": 0.5,
+    "Bounciness": 1,
     "ActorFriction": null,
     "OverrideActorCollision": null,
     "IsInteractable": false,
@@ -42,7 +42,7 @@
     "GrowthRules": null,
     "GrowthMedium": null,
     "Friction": 0,
-    "Viscosity": 0,
+    "Viscosity": 1,
     "DefaultTemperature": null,
     "ThermalConductivity": null,
     "ColorDelegate": "Sand",
@@ -57,16 +57,21 @@
     "LightRange": null,
     "Condensation": null,
     "Evaporation": null,
-    "Ignition": null,
+    "Ignition": {
+      "TargetMaterialName": "Napalm (Burning)",
+      "Temperature": 330,
+      "RequiresSpark": false,
+      "Explodes": false
+    },
     "Fire": {
       "ExtinguishTargetMaterialName": "Napalm",
       "CombustionTargetMaterialNames": [
         "Carbon Dioxide",
-        "Carbon Monoxide",
-        "Steam"
+        "Carbon Dioxide",
+        "Carbon Monoxide"
       ],
-      "HeatOutput": 100,
-      "PercentChanceToSpread": 50,
+      "HeatOutput": 70,
+      "PercentChanceToSpread": 18,
       "FlameColor": {
         "R": 0.973,
         "G": 0.541,
@@ -84,9 +89,9 @@
         "OkHslL": 0.7691524,
         "Luminance": 0.78940026
       },
-      "ProbabilityToCombust": 86
+      "ProbabilityToCombust": 5
     },
-    "ExplosionRadius": 1,
+    "ExplosionRadius": 0,
     "DropRates": null
   }
 ]

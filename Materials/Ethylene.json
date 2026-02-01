@@ -16,8 +16,8 @@
     "WireIndex": null,
     "HealthChange": 0,
     "AcidDamage": 0,
-    "Weight": 0,
-    "Density": 0.4,
+    "Weight": 1,
+    "Density": 3.0,
     "Hardness": 0,
     "Composition": {
       "Elements": [

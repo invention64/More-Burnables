@@ -16,8 +16,8 @@
     "WireIndex": null,
     "HealthChange": 0,
     "AcidDamage": 0,
-    "Weight": 22,
-    "Density": 3.0,
+    "Weight": 20,
+    "Density": 2.0,
     "Hardness": 0,
     "Composition": {
       "Elements": [
@@ -78,7 +78,7 @@
     },
     "Ignition": {
       "TargetMaterialName": "Alcohol (Burning)",
-      "Temperature": null,
+      "Temperature": 400,
       "RequiresSpark": true,
       "Explodes": false
     },
