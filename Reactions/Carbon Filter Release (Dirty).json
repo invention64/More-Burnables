@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Carbon Filter Release (Dirty)",
+    "PrimaryInput": "Carbon Filter (Dirty)",
+    "Inputs": {
+      "Carbon Filter (Dirty)": 1
+    },
+    "Outputs": {
+      "Carbon Filter (Used)": 1,
+      "Carbon": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 395,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

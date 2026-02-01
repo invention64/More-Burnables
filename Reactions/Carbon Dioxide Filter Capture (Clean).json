@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Carbon Dioxide Filter Capture (Clean)",
+    "PrimaryInput": "Carbon Filter (Clean)",
+    "Inputs": {
+      "Carbon Filter (Clean)": 1,
+      "Carbon Dioxide": 3
+    },
+    "Outputs": {
+      "Carbon Filter (Used)": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": 393,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
