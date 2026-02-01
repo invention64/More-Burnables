@@ -4,7 +4,7 @@
     "PrimaryInput": "Carbon Filter (Used)",
     "Inputs": {
       "Carbon Filter (Used)": 1,
-      "Carbon Monoxide": 3
+      "Carbon Monoxide": 6
     },
     "Outputs": {
       "Carbon Filter (Dirty)": 1
