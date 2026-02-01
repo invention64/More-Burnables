@@ -5,7 +5,7 @@
     "Description": null,
     "Formula": null,
     "State": 0,
-    "PickUpInto": null,
+    "PickUpInto": "Carbon Filter (Used)",
     "MinesInto": null,
     "BuildsInto": "Carbon Filter (Used)",
     "TurnsOnInto": null,
