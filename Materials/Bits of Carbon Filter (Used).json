@@ -1,0 +1,76 @@
+[
+  {
+    "Name": "Bits of Carbon Filter (Used)",
+    "LocIdName": "MAT_SOLID_CARBON_FILTER_USED",
+    "Description": null,
+    "Formula": null,
+    "State": 0,
+    "PickUpInto": null,
+    "MinesInto": null,
+    "BuildsInto": "Carbon Filter (Used)",
+    "TurnsOnInto": null,
+    "TurnsOffInto": null,
+    "RotatesRightInto": null,
+    "RotatesLeftInto": null,
+    "GrowsInto": null,
+    "WireIndex": null,
+    "HealthChange": 0,
+    "AcidDamage": 0,
+    "Weight": 0,
+    "Density": 16.0,
+    "Hardness": 2,
+    "Composition": {
+      "Elements": [
+        {
+          "Item1": "Fiber",
+          "Item2": 3
+        },
+        {
+          "Item1": "Steel",
+          "Item2": 1
+        }
+      ]
+    },
+    "DissolvesInto": null,
+    "Bounciness": 0.0,
+    "ActorFriction": null,
+    "OverrideActorCollision": null,
+    "IsInteractable": false,
+    "IsBurning": false,
+    "IgnoreFogOfWar": false,
+    "CanBeCutByPlasma": false,
+    "Direction": 0,
+    "IsForeground": false,
+    "IsCarryingSignal": false,
+    "IsUnstable": false,
+    "RequiredSupportDirection": null,
+    "DoNotBlockLaser": false,
+    "IsBuilt": true,
+    "IsMechanical": false,
+    "CanPickUpStatic": false,
+    "IsOn": false,
+    "DoNotShowInGuide": false,
+    "GrowthRules": null,
+    "GrowthMedium": null,
+    "Friction": 0,
+    "Viscosity": 0,
+    "DefaultTemperature": null,
+    "ThermalConductivity": 50,
+    "ColorDelegate": null,
+    "Color": {
+      "R": 0.77,
+      "G": 0.79,
+      "B": 0.71,
+      "A": 1.0
+    },
+    "Alpha": 0.0,
+    "LightColor": null,
+    "LightRange": null,
+    "Condensation": null,
+    "Evaporation": null,
+    "Ignition": null,
+    "Fire": null,
+    "ExplosionRadius": 0,
+    "DropRates": null
+  }
+]

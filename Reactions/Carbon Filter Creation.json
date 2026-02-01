@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Carbon Filter Production",
+    "PrimaryInput": "Steel",
+    "Inputs": {
+      "Steel": 1,
+      "Fiber": 3
+    },
+    "Outputs": {
+      "Carbon Filter (New)": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
