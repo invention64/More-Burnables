@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Steam Cracked Gasoline",
+    "PrimaryInput": "Oil",
+    "Inputs": {
+      "Oil": 2,
+      "Steam": 2
+    },
+    "Outputs": {
+      "Gasoline": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 400,
+    "MaxTemperature": null,
+    "ChangeInTemperature": -30,
+    "Probability": 20
+  }
+]

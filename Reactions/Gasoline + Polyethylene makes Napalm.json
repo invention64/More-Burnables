@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Napalm",
+    "PrimaryInput": "Polyethylene",
+    "Inputs": {
+      "Polyethylene": 1,
+      "Gasoline": 3
+    },
+    "Outputs": {
+      "Napalm": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 280,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

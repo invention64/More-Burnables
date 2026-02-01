@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Coal Liquefaction (Burning)",
+    "PrimaryInput": "Coal (Burning)",
+    "Inputs": {
+      "Coal (Burning)": 1,
+      "Steam": 2
+    },
+    "Outputs": {
+      "Oil": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": -20,
+    "Probability": 20
+  }
+]
