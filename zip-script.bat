@@ -25,7 +25,7 @@ set "ZIPNAME=More-Burnables-v%VER%.zip"
 
 rem Use PowerShell Compress-Archive to create the zip containing only existing items
 powershell -NoProfile -Command ^
-"$items = @(); if (Test-Path -LiteralPath 'Materials') { $items += 'Materials' }; if (Test-Path -LiteralPath 'Reactions') { $items += 'Reactions' }; if (Test-Path -LiteralPath 'README.txt') { $items += 'README.txt' }; if ($items.Count -eq 0) { Write-Host 'No items found to archive.'; exit 1 }; Compress-Archive -Path $items -DestinationPath '%ZIPNAME%' -Force; Write-Host 'Created %ZIPNAME%'"
+"$items = @(); if (Test-Path -LiteralPath 'Materials') { $items += 'Materials' }; if (Test-Path -LiteralPath 'Reactions') { $items += 'Reactions' }; if (Test-Path -LiteralPath 'README.txt') { $items += 'README.txt' }; if (Test-Path -LiteralPath 'install-mod.bat') { $items += 'install-mod.bat' }; if (Test-Path -LiteralPath 'uninstall-mod.bat') { $items += 'uninstall-mod.bat' }; if ($items.Count -eq 0) { Write-Host 'No items found to archive.'; exit 1 }; Compress-Archive -Path $items -DestinationPath '%ZIPNAME%' -Force; Write-Host 'Created %ZIPNAME%'"
 
 popd
 endlocal
