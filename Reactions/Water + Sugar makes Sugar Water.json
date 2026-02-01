@@ -1,10 +1,10 @@
 [
   {
     "Name": "Water + Sugar makes Sugar Water",
-    "PrimaryInput": "Water",
+    "PrimaryInput": "Sugar",
     "Inputs": {
-      "Water": 3,
-      "Sugar": 1
+      "Sugar": 1,
+      "Water": 3
     },
     "Outputs": {
       "Sugar Water": 4
