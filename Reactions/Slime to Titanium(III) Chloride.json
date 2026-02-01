@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Purple Slime to Titanium(III) Chloride",
+    "PrimaryInput": "Purple Slime",
+    "Inputs": {
+      "Purple Slime": 1
+    },
+    "Outputs": {
+      "Titanium Trichloride": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 480,
+    "MaxTemperature": 900,
+    "ChangeInTemperature": -20,
+    "Probability": 0
+  }
+]
