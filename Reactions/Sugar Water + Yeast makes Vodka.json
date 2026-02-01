@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sugar Water + Yeast makes Vodka",
+    "PrimaryInput": "Sugar Water",
+    "Inputs": {
+      "Sugar Water": 3,
+      "Active Yeast": 1
+    },
+    "Outputs": {
+      "Vodka": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 277,
+    "MaxTemperature": 550,
+    "ChangeInTemperature": 0,
+    "Probability": 40
+  }
+]

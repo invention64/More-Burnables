@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Brewers Yeast + Water",
+    "PrimaryInput": "Water",
+    "Inputs": {
+      "Water": 2,
+      "Brewers Yeast": 2
+    },
+    "Outputs": {
+      "Dead Yeast Slurry": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": 550,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
