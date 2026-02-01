@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Dead Yeast Slurry + Sugar makes Yeast",
+    "PrimaryInput": "Dead Yeast Slurry",
+    "Inputs": {
+      "Dead Yeast Slurry": 3,
+      "Sugar": 1
+    },
+    "Outputs": {
+      "Yeast": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": 550,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

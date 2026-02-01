@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Water + Sugar makes Sugar Water",
+    "PrimaryInput": "Water",
+    "Inputs": {
+      "Water": 3,
+      "Sugar": 1
+    },
+    "Outputs": {
+      "Sugar Water": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 277,
+    "MaxTemperature": 550,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
