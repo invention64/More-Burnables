@@ -3,10 +3,10 @@
     "Name": "Ethanol to Ethylene Alumina Catalyst",
     "PrimaryInput": "Alcohol Vapors",
     "Inputs": {
-      "Alcohol Vapors": 1
+      "Alcohol Vapors": 2
     },
     "Outputs": {
-      "Ethylene": 1,
+      "Ethylene": 2,
       "Steam": 1
     },
     "Catalysts": {
@@ -15,7 +15,7 @@
     "Electrolysis": false,
     "Temperature": 673,
     "MaxTemperature": null,
-    "ChangeInTemperature": 0,
+    "ChangeInTemperature": 40,
     "Probability": 0
   }
 ]

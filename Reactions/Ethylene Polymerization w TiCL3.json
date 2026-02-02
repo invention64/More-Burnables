@@ -6,7 +6,7 @@
       "Ethylene": 4
     },
     "Outputs": {
-      "Polyethylene": 1
+      "Polyethylene": 2
     },
     "Catalysts": {
       "Titanium Trichloride": 1
@@ -14,7 +14,7 @@
     "Electrolysis": false,
     "Temperature": 100,
     "MaxTemperature": null,
-    "ChangeInTemperature": 150,
+    "ChangeInTemperature": 180,
     "Probability": 0
   }
 ]
