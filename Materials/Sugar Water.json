@@ -17,7 +17,7 @@
     "HealthChange": 0,
     "AcidDamage": 0,
     "Weight": 20,
-    "Density": 2.0,
+    "Density": 4.0,
     "Hardness": 0,
     "Composition": null,
     "DissolvesInto": null,
